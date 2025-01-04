@@ -64,6 +64,12 @@
 
 <hr>
 
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<br>
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/raghavendra-me/raghavendra-me/output/github-contribution-grid-snake.svg" />
+</p>
+
 <h2 align="center">📞 Contact Me 📞</h2>
 <br>
 <p align="center">
