@@ -85,6 +85,9 @@
 <hr>
 
 <h2 align="center">🎓 Education 🎓</h2>
+<div align="center>
+  
+
 <br>
 <ul>
   <li>
@@ -109,7 +112,7 @@
     CGPA: 10.0
   </li>
 </ul>
-
+</div>
 <hr>
 
 <h2 align="center">🚀 Projects 🚀</h2>
